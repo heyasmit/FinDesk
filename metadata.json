@@ -1,0 +1,6 @@
+{
+  "name": "FinDesk",
+  "description": "Premium multi-brokerage wealth management consolidator with real-time assets tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
