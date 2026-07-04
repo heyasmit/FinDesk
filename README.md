@@ -61,19 +61,6 @@ In today's ecosystem, retail investors split capital across multiple broker acco
 * **Android Studio** (Ladybug 2024.2.1 or newer recommended)
 * **Android SDK** Level 34+
 * **JDK 17+** configured in your shell environment
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/findesk.git
-cd findesk
-
-# 2. Build the debug application package (APK)
-./gradlew assembleDebug
-
-# 3. Deploy onto a running physical device or emulator
-./gradlew installDebug
-```
-
 ---
 
 ## 🎮 How to Use FinDesk: A Step-by-Step Guide
