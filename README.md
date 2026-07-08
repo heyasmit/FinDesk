@@ -104,8 +104,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/914e9926-05c0-4835-abbe-f06d328b9c1c
-
 ## Run Locally
 
 **Prerequisites:**  [Android Studio](https://developer.android.com/studio)
